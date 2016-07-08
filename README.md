@@ -1,1 +1,2 @@
 # Rain
+Rain is great.
